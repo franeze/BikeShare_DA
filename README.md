@@ -1,6 +1,6 @@
 ### Usage Insights for a Fictional Bike Share Company: The Cyclistic Bike-Share Project Data Analysis
 
-<div style="text-align: center;"><img src="Cyclisticlogo.png" alt="Example Image" width="300"/></div>
+<div style="text-align: center;"><img src="CyclisticLogo.png" alt="Example Image" width="300"/></div>
 
 #### Scenario
 In this project, I analyzed how annual members and casual riders use Cyclistic bikes differently to develop strategies for increasing annual memberships. The analysis aimed to uncover patterns in bike usage, understand key differences between membership types, and provide actionable insights for a targeted marketing strategy. I used R for data cleaning and analysis, and Tableau to create visualizations in a dashboard to support the findings. I created a report using R Markdown. Additionally, a version of the report created with Jupyter Notebook, which includes data analysis performed using Python, is also included in the project.
